@@ -1,6 +1,6 @@
 
       /*
-            the methods under the data object
+            the methods under the date object
 
             getFullYear()
             getMonth()
